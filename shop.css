@@ -188,4 +188,22 @@
   .footer{
     margin-top: 0;
   }
+
+  .item-area{
+    display: block;
+  }
+
+  .item-area img{
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .about-item{
+    margin-top: 20px;
+    margin-left: 0;
+  }
+
+  .about-item a{
+    width: 100%;
+  }
 }
